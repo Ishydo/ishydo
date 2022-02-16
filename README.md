@@ -1,6 +1,6 @@
 All my projects are represented by a small web agency focused on web services and development of innovative impactful web projects. Our mission is to create a new opportunity for creatives, entrepreneurs and ambitious people to have a strong impact through their web presence. We also maintain our own conceptual projects aiming to have a positive social or environmental impact.
 
- ⚡ [raitone.com](https://raitone.com) - Creating positive impact on the web.
+ ⚡ **[raitone.com](https://raitone.com) - Creating positive impact on the web.**
  
  You can find me and reach me through on my personal website
   
